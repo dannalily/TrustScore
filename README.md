@@ -1,4 +1,4 @@
-# TrustScore: Reference-Free Evaluation of LLM Response Trustworthiness [[Link](https://arxiv.org/abs/2402.12545)]
+# TrustScore: Reference-Free Evaluation of LLM Response Trustworthiness [[paper](https://arxiv.org/abs/2402.12545)]
 
 Environment: ```conda env export > trustscore_environment.yml```
 
